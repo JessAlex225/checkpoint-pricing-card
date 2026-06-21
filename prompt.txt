@@ -1,0 +1,5 @@
+Analyse ce composant de carte tarifaire.
+Corrige tous les bugs HTML et CSS, améliore la mise en page,
+rends le composant responsive et moderne,
+puis refactorise-le pour qu'il soit réutilisable à travers une fonction JavaScript createPricingCard(title, price, features). Utilise uniquement HTML, CSS et JavaScript vanilla.
+Ajoute des animations douces et un design professionnel.
